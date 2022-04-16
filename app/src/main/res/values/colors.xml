@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_black">#585858</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="colorupdate">#643D19</color>
+
+    <color name="gray1">#AAAAAA</color>
+    <color name="gray2">#888888</color>
+    <color name="gray3">#DDDDDD</color>
+    <color name="gray4">#f6f6f6</color>
+    <color name="gray5">#CCCCCC</color>
+    <color name="gray6">#777777</color>
+    <color name="gray7">#B3B3B3</color>
+    <color name="gray8">#999999</color>
+    <color name="black_trans">#44000000</color>
+    <color name="borderGray">#f8f7fc</color>
+
+
+    <color name="colorAccent">#F2A301</color>
+    <color name="colorAccentDark">#E08700</color>
+    <color name="colorNoticeBackground">#FFFFFF</color>
+    <color name="colorNoticeText">#444444</color>
+
+
+    <color name="semi_black">#111111</color>
+    <color name="semi_black2">#333333</color>
+
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="buttonfirst">#955B31</color>
+    <color name="buttonsecond">#DAB28D</color>
+
+    <color name="colorToastBack">#734924</color>
+
+    <color name="colorOverlayButton">#7C4A22</color>
+    <color name="colorBaseAdmin">#f79100</color>
+
+    <color name="colorStationCharge">#F3B368</color>
+    <color name="colorStationNormal">#faa718</color>
+    <color name="colorOverlayAccent">#DE8500</color>
+    <color name="colorMarkerAccent">#FA8B09</color>
+
+    <color name="colorProgress">#7C4A22</color>
+
+    <color name="colorBanner">#F9F4EB</color>
+    <color name="colorBannerText">#93714E</color>
+
+    <color name="progress">#FFB884</color>
+
+    <color name="item_activity_shop_title">#3D3D3D</color>
+    <color name="item_activity_shop_originalPrice">#797979</color>
+    <color name="item_activity_shop_salesPrice">#000000</color>
+    <color name="item_activity_shop_won">#797979</color>
+    <color name="item_activity_shop_rate">#FF1818</color>
+    <color name="tabIndicatorColor">#424242</color>
+    <color name="tabLayoutBackgroundColor">#F1F1F1</color>
+    <color name="btn_shopping_text">#2167F3</color>
+    <color name="btn_dialog_send_obituary_message">#643D19</color>
+    <color name="btn_dialog_send_obituary_kakao">#8A664B</color>
+
+    <color name="btn_activity_report_button">#8A664B</color>
+
+
+</resources>
